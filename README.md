@@ -36,5 +36,5 @@ I am an aspiring Back End Developer <img src="https://media.giphy.com/media/WUlp
 
 - :zap: In my free time, I solve LeetCode problems, hackerranks and read fantasy fiction.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busisiwe-mokatse)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busisiwe-mokatse)
 
