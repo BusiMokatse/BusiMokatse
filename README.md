@@ -14,7 +14,9 @@
 </div>
 
 <!--Profile watches-->
-<img src="https://komarev.com/ghpvc/?username=BusiMokatse&style=flat-square&color=blue" alt=""/>
+<div id="views" align="center">
+  <img src="https://komarev.com/ghpvc/?username=BusiMokatse&style=flat-square&color=blue" alt=""/>
+</div>
 
 
 <!--
