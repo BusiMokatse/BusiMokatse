@@ -8,7 +8,7 @@
 
 <!--Social Media badges-->
 <div id="badges">
-  <a href="www.linkedin.com/in/busisiwe-mokatse">
+  <a href="https://www.linkedin.com/in/busisiwe-mokatse">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
