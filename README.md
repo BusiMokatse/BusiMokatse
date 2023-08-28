@@ -9,7 +9,7 @@
 <!--Social Media badges-->
 <div id="badges">
   <a href="www.linkedin.com/in/busisiwe-mokatse">
-    https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 <!--
