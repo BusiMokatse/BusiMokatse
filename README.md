@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Cloud Engineer by day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and a menace to society by night<img src="giphy.com/gifs/reaction-mood-2zelCiUo5KJyN8MgMr" width="30">.
+I am a Cloud Engineer by day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" height="30">, and a menace to society by night<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnRxa2gzejdhMnFrc3VjeGJ6ZjBxMTA2aHd5MDRzMHA0cDkyY3IwNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/x7gjmBuaHrWak/giphy.gif" width="30" height="30">.
 
 - :telescope: I’m versed in languages such as Java, Python, and JS. I consider myself adequate at DevOps, and Project Management.
 
