@@ -28,13 +28,13 @@
 
 ### :woman_technologist: About Me :
 
-I am an aspiring Back End Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
 
-- :telescope: I’m currently a Software Engineering Student learning multiple languages such as Java, Python and SQL.
+- :telescope: I’m versed in languages such as Java, Python, and JS. I consider myself adequate at DevOps, and Project Management.
 
-- :seedling: Exploring AWS cloud computing.
+- :seedling: Getting my wings in the AWS cloud.
 
-- :zap: In my free time, I solve LeetCode problems, hackerranks and read fantasy fiction.
+- :zap: In my free time, I do diamond art paintings, bake, and read fantasy fiction.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/busisiwe-mokatse)
 
