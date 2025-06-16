@@ -28,7 +28,7 @@
 
 ### :woman_technologist: About Me :
 
-I am a Cloud Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from South Africa.
+I am a Cloud Engineer by day <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">, and a menace to society by night<img src="giphy.com/gifs/reaction-mood-2zelCiUo5KJyN8MgMr" width="30">.
 
 - :telescope: I’m versed in languages such as Java, Python, and JS. I consider myself adequate at DevOps, and Project Management.
 
